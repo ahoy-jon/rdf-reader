@@ -1,0 +1,7 @@
+To use it the boilerplate :
+
+* clone the repo,
+* at the project root do mvn clean install jetty:run (Obviouly, you need Maven2),
+* then open http://localhost:8080.
+
+That's it.
