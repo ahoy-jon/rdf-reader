@@ -1,5 +1,8 @@
+project/boot/
+target
 .DS_Store
-YOUR JREBEL EVALUATION LICENSE HAS EXPIRED.error
+*EXPIRED.error
+lib_managed
 fr.jonathanwinandy.javaweb.iml
 fr.jonathanwinandy.javaweb.ipr
 fr.jonathanwinandy.javaweb.iws

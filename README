@@ -1,7 +1,10 @@
-To use it the boilerplate :
+"Little" project to read rdf ressources in a friendly way.
+Scala is good.
+
+To use it :
 
 * clone the repo,
-* at the project root do mvn clean install jetty:run (Obviouly, you need Maven2),
+-* at the project root do mvn clean install jetty:run (Obviouly, you need Maven2),-
 * then open http://localhost:8080.
 
 That's it.
