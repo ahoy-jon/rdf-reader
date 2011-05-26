@@ -1,3 +1,5 @@
+lib_managed
+*.db
 project/boot/
 target
 .DS_Store
