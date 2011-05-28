@@ -5,6 +5,5 @@ target
 .DS_Store
 *EXPIRED.error
 lib_managed
-fr.jonathanwinandy.javaweb.iml
-fr.jonathanwinandy.javaweb.ipr
-fr.jonathanwinandy.javaweb.iws
+*.iml
+.idea
